@@ -1,18 +1,15 @@
 baseURL = '/'
-languageCode = 'en'
-defaultContentLanguage = "en"
+languageCode = 'zh'
+defaultContentLanguage = "zh"
 hasCJKLanguage = true
 enableEmoji = true
-title = 'iTheme'
-copyright = 'Floyd Li'
-theme = 'hugo-theme-itheme'
+title = 'timemeet'
+copyright = 'timemeet'
+theme = 'hugo-theme-timemeet'
 paginate = 5
 [params]
   defaultCover = 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
-  email = 'floyd.li@outlook.com'
+  email = 'me@timemeet.me'
   [[params.socialMedia]]
     name = 'Github'
-    url = 'https://github.com/floyd-li'
-  [[params.blogroll]]
-    name = '驭风笔记'
-    url = 'https://yufengbiji.com/'
+    url = 'https://github.com'
